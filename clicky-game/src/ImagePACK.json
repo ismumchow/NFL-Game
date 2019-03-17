@@ -1,0 +1,21 @@
+[{
+        "name": "packers",
+        "url": "."
+    },
+    {
+        "name": "bears",
+        "url": "./clubimgs/ars.png"
+    },
+    {
+        "name": "vikings",
+        "url": "./clubimgs/bha.png"
+    },
+    {
+        "name": "lions",
+        "url": "./clubimgs/bur.png"
+    },
+    {
+        "name": "giants",
+        "url": "./clubimgs/car.png"
+    }
+]

@@ -1,0 +1,12 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+  background-color: #FFDC00;
+}
+
+.nav-item:hover {
+  font-size: 28px;
+  transition-duration: .2s;
+}
+
+
+
